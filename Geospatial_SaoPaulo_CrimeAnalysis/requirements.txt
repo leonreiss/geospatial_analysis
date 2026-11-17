@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+folium
+scikit-learn
+requests
+
+# Part 2 (learning exercises) only — not required to run Part 1
+geopandas
+geopy
+kaggle
